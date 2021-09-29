@@ -14,7 +14,7 @@ Puedes encontrar la fuente original [aquí](https://fontlibrary.org/es/font/cave
 ü Ü
 ¿ !
 
-En este repo está el archivo .ttf para instalar la fuente en el sistema y el archivo editable de fontforge (sfd) por si quieres agregar soporte para otro idioma o modificar algo.
+En este repo está el archivo .ttf para instalar la fuente en el sistema y el archivo editable de fontforge (sfd) por si quieres agregar soporte para otro idioma o modificar algo, todo es totalmente libre.
 
 Ejemplos de la fuente en español:
 
@@ -23,3 +23,11 @@ Ejemplos de la fuente en español:
 * Alfabeto
 ![Alfabeto](https://github.com/LatorreDev/Cave-Story-Spanish-Font/blob/main/assets/Alphabet.PNG)
 * ![visualización en fontforge](https://github.com/LatorreDev/Cave-Story-Spanish-Font/blob/main/assets/fontforge.PNG)
+
+Mis redes sociales
+* Personal
+    * [Twitter](https://twitter.com/latorredev)
+* Arte
+  * [Twitter](https://twitter.com/AlpacaStudioCol)
+  * [Instagram](https://www.instagram.com/alpacastudio8bits/)
+
